@@ -19,3 +19,15 @@ ABSTRACTION
 - static variables/methods
 
 
+Final -> stops method overloading, stops class inheriting, stops modifying variables
+
+
+-- Access modifiers:
+ - Public
+ - Default
+ - Protected
+ - Private
+ 
+
+-- Abstract & Interface:
+ - Interface can have multiple classes(uses implements instead of extends)
