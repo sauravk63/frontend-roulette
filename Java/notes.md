@@ -31,3 +31,25 @@ Final -> stops method overloading, stops class inheriting, stops modifying varia
 
 -- Abstract & Interface:
  - Interface can have multiple classes(uses implements instead of extends)
+
+
+++ Exception handling
+ - Compile Error
+ - Logical Error
+ - Runtime Error
+ - checked errors
+ - unchecked errors
+ - try, catch, finally(close DB connections, close file I/O)
+
+** Collection APIs
+- List and Sets 
+- List maintains orders and allows repetation.
+- Sets do not allow repetations and doesn't maintain orders, it works in Key-Value pairs.
+- collection is a concept and Collection is an interface.
+
+++ Threads
+- allows two or more processes to run parallely.
+- Needs to use Runnable interface.
+- Depends upon system scheduler for parallel execution.
+- Use join method to stop main() execution until all threads execution are done.
+
